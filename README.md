@@ -1,4 +1,4 @@
-# iamrich
+# iamrich app
 
 A new Flutter project.
 
